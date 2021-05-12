@@ -6,7 +6,7 @@ I’m interested in...
 - Web/phone app development
 - UI/UX Ease of use design
 - Quality Assurance
-- Backend development
+- Full-stack development
 - Automation and containerization 
 
 I'm learning...
