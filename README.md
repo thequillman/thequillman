@@ -13,6 +13,7 @@ I'm learning...
 - Dart/Flutter
 - Unity
 - Unreal Engine
+- React Native
 
 Projects I'm working on...
 - A fictional series wiki and web app
