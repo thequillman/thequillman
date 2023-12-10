@@ -3,15 +3,14 @@
 Hey I’m Jon
 
 I’m interested in...
+- Breaking things (Quality Assurance)
 - Web/phone app development
 - UI/UX Ease of use design
-- Quality Assurance
 - Automation and containerization 
 
 I'm learning...
 - React Native
 - AR/VR Design
-- 
 
 Projects I'm working on...
 - Advancing Web Tech
@@ -24,8 +23,9 @@ Other projects on my horizon...
 - A phone game based off of LEGO Racers
 
 In my free time I'm...
-- Cooking
-- Pickling
+- Drawing/Designing
+- Learning French
+- Cooking + Pickling
 - Watching Movies
 - Listening to music
 - Writing Stories
