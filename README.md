@@ -1,21 +1,20 @@
 ℹ About Me ℹ  
   - 
-Wassup I’m Jonathan.
+Hey I’m Jon
 
 I’m interested in...
 - Web/phone app development
 - UI/UX Ease of use design
 - Quality Assurance
-- Full-stack development
 - Automation and containerization 
 
 I'm learning...
-- Dart/Flutter
-- Unity
-- Unreal Engine
 - React Native
+- AR/VR Design
+- 
 
 Projects I'm working on...
+- Advancing Web Tech
 - A fictional series wiki and web app
 - A website portfolio for my sister
 
@@ -26,10 +25,10 @@ Other projects on my horizon...
 
 In my free time I'm...
 - Cooking
-- Watching B-Movies
+- Pickling
+- Watching Movies
 - Listening to music
-- Pretending to be a weather-man
-- Applying for jobs
+- Writing Stories
 
 I’m down to collaborate on anything. 
 
